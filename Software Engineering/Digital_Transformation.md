@@ -19,6 +19,6 @@ IT Mode 2
 > 이를, **BIMODAL IT**라고 함
 
 
-### Cloud Native
+### Application Modernization
 Cloud Native = Microservice + Cloud + DevOps
 
